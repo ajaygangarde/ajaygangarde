@@ -7,9 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Cutting edge Projects**
 
-- 👨‍💻 All of my projects are available at [repositories]([https://github.com/ajaygangarde/ajaygangarde](https://github.com/ajaygangarde?tab=repositories))
-
-- 📝 I regularly write articles on [linkedin](linkedin)
 
 - Passionate JavaScript developer with over 9 years of experience in building scalable web applications. Specialize in front-end and backend development using modern frameworks like React.js, Angular and Express JS. Strong advocate for clean code and best practices. **React JS, Angular, Express JS, GIT, Docker**
 
