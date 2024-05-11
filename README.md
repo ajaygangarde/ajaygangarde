@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cutting edge Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajaygangarde/ajaygangarde](https://github.com/ajaygangarde/ajaygangarde)
+- 👨‍💻 All of my projects are available at [repositories]([https://github.com/ajaygangarde/ajaygangarde](https://github.com/ajaygangarde?tab=repositories))
 
 - 📝 I regularly write articles on [linkedin](linkedin)
 
